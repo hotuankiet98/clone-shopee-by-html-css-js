@@ -1,0 +1,23 @@
+{
+  "name": "shopee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hotuankiet98/nodejs_blog.git"
+  },
+  "keywords": [
+    "nodejs",
+    "blog"
+  ],
+  "author": "hotuankiet98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hotuankiet98/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/hotuankiet98/nodejs_blog#readme"
+}
